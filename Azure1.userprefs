@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{845B6A10-D3E3-47B7-B33B-8978DEA10A97}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Azure1/Program.cs">
+    <Files>
+      <File FileName="Azure1/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Azure1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

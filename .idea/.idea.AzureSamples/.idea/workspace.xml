@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ae38922-8901-4a15-a617-48ffba595a40" name="Default" comment="First commit and push" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SAS/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <marker date="1519935604579" expanded="true" signature="6:225" ph="..." />
+                <marker date="1519935604579" expanded="true" signature="240:3915" ph="{...}" />
+                <marker date="1519935604579" expanded="true" signature="260:3913" ph="{...}" />
+                <marker date="1519935604579" expanded="true" signature="306:1709" ph="{...}" />
+                <marker date="1519935604579" expanded="true" signature="1785:3002" ph="{...}" />
+                <marker date="1519935604579" expanded="true" signature="3079:3907" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Azure1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="148" lean-forward="false" selection-start-line="13" selection-start-column="148" selection-end-line="13" selection-end-column="148" />
+              <folding>
+                <marker date="1519935626156" expanded="false" signature="6:177" ph="..." />
+                <marker date="1519935626156" expanded="true" signature="195:2633" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="215:2631" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="261:1270" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="1125:1221" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="1364:2249" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="1887:2034" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="2329:2625" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="2355:2441" ph="{...}" />
+                <marker date="1519935626156" expanded="true" signature="2481:2615" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AzureStorageQueue/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1519920110424" expanded="false" signature="6:245" ph="..." />
+                <marker date="1519920110424" expanded="true" signature="274:1734" ph="{...}" />
+                <marker date="1519920110424" expanded="true" signature="294:1732" ph="{...}" />
+                <marker date="1519920110424" expanded="true" signature="340:1150" ph="{...}" />
+                <marker date="1519920110424" expanded="true" signature="1218:1726" ph="{...}" />
+                <marker date="1519920110424" expanded="true" signature="1332:1470" ph="{...}" />
+                <marker date="1519920110424" expanded="true" signature="1630:1716" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AzureStorageQueue/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="103" lean-forward="false" selection-start-line="1" selection-start-column="103" selection-end-line="1" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AzureTables/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="103" lean-forward="false" selection-start-line="1" selection-start-column="103" selection-end-line="1" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlobSample1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+              <folding>
+                <marker date="1519935707260" expanded="false" signature="6:280" ph="..." />
+                <marker date="1519935707260" expanded="true" signature="303:3673" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="323:3671" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="369:1322" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="1419:2081" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="2201:2894" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="2961:3189" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="3075:3179" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="3307:3665" ph="{...}" />
+                <marker date="1519935707260" expanded="true" signature="3372:3655" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SAS/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BlobSample1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AzureStorageQueue/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Azure1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SAS/Program.cs" />
+        <option value="$PROJECT_DIR$/Azure1/Program.cs" />
+        <option value="$PROJECT_DIR$/AzureStorageQueue/appsettings.json" />
+        <option value="$PROJECT_DIR$/AzureTables/appsettings.json" />
+        <option value="$PROJECT_DIR$/BlobSample1/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AzureSamples (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ae38922-8901-4a15-a617-48ffba595a40" name="Default" comment="" />
+      <created>1519935122714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519935122714</updated>
+      <workItem from="1519935127884" duration="717000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit and push">
+      <created>1519935765434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519935765434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="717000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="741" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit and push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit and push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Azure1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="148" lean-forward="false" selection-start-line="13" selection-start-column="148" selection-end-line="13" selection-end-column="148" />
+          <folding>
+            <marker date="1519935626156" expanded="false" signature="6:177" ph="..." />
+            <marker date="1519935626156" expanded="true" signature="195:2633" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="215:2631" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="261:1270" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="1125:1221" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="1364:2249" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="1887:2034" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="2329:2625" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="2355:2441" ph="{...}" />
+            <marker date="1519935626156" expanded="true" signature="2481:2615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AzureStorageQueue/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519920110424" expanded="false" signature="6:245" ph="..." />
+            <marker date="1519920110424" expanded="true" signature="274:1734" ph="{...}" />
+            <marker date="1519920110424" expanded="true" signature="294:1732" ph="{...}" />
+            <marker date="1519920110424" expanded="true" signature="340:1150" ph="{...}" />
+            <marker date="1519920110424" expanded="true" signature="1218:1726" ph="{...}" />
+            <marker date="1519920110424" expanded="true" signature="1332:1470" ph="{...}" />
+            <marker date="1519920110424" expanded="true" signature="1630:1716" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AzureStorageQueue/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="103" lean-forward="false" selection-start-line="1" selection-start-column="103" selection-end-line="1" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AzureTables/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="103" lean-forward="false" selection-start-line="1" selection-start-column="103" selection-end-line="1" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlobSample1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <marker date="1519935707260" expanded="false" signature="6:280" ph="..." />
+            <marker date="1519935707260" expanded="true" signature="303:3673" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="323:3671" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="369:1322" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="1419:2081" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="2201:2894" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="2961:3189" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="3075:3179" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="3307:3665" ph="{...}" />
+            <marker date="1519935707260" expanded="true" signature="3372:3655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAS/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1519935604579" expanded="true" signature="6:225" ph="..." />
+            <marker date="1519935604579" expanded="true" signature="240:3915" ph="{...}" />
+            <marker date="1519935604579" expanded="true" signature="260:3913" ph="{...}" />
+            <marker date="1519935604579" expanded="true" signature="306:1709" ph="{...}" />
+            <marker date="1519935604579" expanded="true" signature="1785:3002" ph="{...}" />
+            <marker date="1519935604579" expanded="true" signature="3079:3907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
