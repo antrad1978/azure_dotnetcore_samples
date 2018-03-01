@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ae38922-8901-4a15-a617-48ffba595a40" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AzureSamples/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AzureSamples/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs" afterPath="$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,24 +34,24 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="195">
+              <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
               <folding>
-                <marker date="1519946429939" expanded="true" signature="6:158" ph="..." />
-                <marker date="1519946429939" expanded="true" signature="193:3041" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="213:3039" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="532:612" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="703:3033" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="1060:1175" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="1454:1672" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="1737:2272" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="1851:2258" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="1909:2045" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="2103:2239" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="2321:2864" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="2443:2850" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="2501:2637" ph="{...}" />
-                <marker date="1519946429939" expanded="true" signature="2695:2831" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="6:197" ph="..." />
+                <marker date="1519946851894" expanded="true" signature="232:3232" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="252:3230" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="492:549" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="647:3224" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="999:1114" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="1393:1611" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="1676:2211" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="1790:2197" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="1848:1984" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="2042:2178" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="2260:2803" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="2382:2789" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="2440:2576" ph="{...}" />
+                <marker date="1519946851894" expanded="true" signature="2634:2770" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -173,6 +174,7 @@
     <setting file="file://$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AzureStorageQueue/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Azure1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/340B7092-0779-4375-93D8-5F8A7BCA331A/c8/e267f0c1/DocumentClient.cs" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -222,24 +224,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="AzureSamples (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="AzureSamples (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Azure.DocumentDb.Sample" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="AzureSamples (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Azure.DocumentDb.Sample" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="AzureSamples (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Azure.DocumentDb.Sample" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +247,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Azure.DocumentDb.Sample">
+    <configuration name="Azure.DocumentDb.Sample" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Azure.DocumentDb.Sample" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Azure.DocumentDb.Sample/Azure.DocumentDb.Sample.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -279,6 +278,15 @@
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.Azure.DocumentDb.Sample" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.Azure.DocumentDb.Sample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -294,7 +302,7 @@
       <option name="presentableId" value="Default" />
       <updated>1519935122714</updated>
       <workItem from="1519935127884" duration="2947000" />
-      <workItem from="1519944116306" duration="785000" />
+      <workItem from="1519944116306" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="First commit and push">
       <created>1519935765434</created>
@@ -317,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519946522111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added DocumentDb sample">
+      <created>1519946537496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519946537496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3732000" />
+    <option name="totallyTimeSpent" value="4056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,19 +357,19 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -378,10 +393,10 @@
           <line>24</line>
           <properties documentPath="$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs">
             <startOffsets>
-              <startOffset value="726" />
+              <startOffset value="670" />
             </startOffsets>
             <endOffsets>
-              <endOffset value="793" />
+              <endOffset value="732" />
             </endOffsets>
           </properties>
         </line-breakpoint>
@@ -390,10 +405,10 @@
           <line>77</line>
           <properties documentPath="$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs">
             <startOffsets>
-              <startOffset value="2878" />
+              <startOffset value="2817" />
             </startOffsets>
             <endOffsets>
-              <endOffset value="2946" />
+              <endOffset value="2885" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
@@ -592,26 +607,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/340B7092-0779-4375-93D8-5F8A7BCA331A/c8/e267f0c1/DocumentClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="659" column="44" lean-forward="false" selection-start-line="659" selection-start-column="44" selection-end-line="659" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="195">
+          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
           <folding>
-            <marker date="1519946429939" expanded="true" signature="6:158" ph="..." />
-            <marker date="1519946429939" expanded="true" signature="193:3041" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="213:3039" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="532:612" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="703:3033" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="1060:1175" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="1454:1672" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="1737:2272" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="1851:2258" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="1909:2045" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="2103:2239" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="2321:2864" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="2443:2850" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="2501:2637" ph="{...}" />
-            <marker date="1519946429939" expanded="true" signature="2695:2831" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="6:197" ph="..." />
+            <marker date="1519946851894" expanded="true" signature="232:3232" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="252:3230" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="492:549" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="647:3224" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="999:1114" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="1393:1611" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="1676:2211" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="1790:2197" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="1848:1984" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="2042:2178" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="2260:2803" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="2382:2789" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="2440:2576" ph="{...}" />
+            <marker date="1519946851894" expanded="true" signature="2634:2770" ph="{...}" />
           </folding>
         </state>
       </provider>

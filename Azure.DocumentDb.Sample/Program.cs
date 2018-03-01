@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Microsoft.Azure.Documents.Client;
 using Microsoft.Azure.Documents;
@@ -10,19 +11,18 @@ namespace Azure.DocumentDb.Sample
     class Program
     {
         private const string EndpointUrl = "https://ngtcosmosdb.documents.azure.com:443/";
-        private const string PrimaryKey = "HaWOi5fQ5G5i2GyH8oFeeyQKucJQDOW58Fou6TdZMZY3cduopNuopLc8VEB8adYmqcJiD75dWYNFuCnjnkBuhg==";
-        private DocumentClient client;
+        private const string PrimaryKey = "==";
+        private static DocumentClient client;
         
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Hello World!");
+            GetStartedDemo().Wait();
         }
         
         // ADD THIS PART TO YOUR CODE
-        private async Task GetStartedDemo()
+        private static async Task GetStartedDemo()
         {
-            this.client = new DocumentClient(new Uri(EndpointUrl), PrimaryKey);
+            client = new DocumentClient(new Uri(EndpointUrl), PrimaryKey);
             string id = "SalesDB";
             var database = client.CreateDatabaseQuery().AsEnumerable().Where(db => db.Id ==
                                                                      id).AsEnumerable().FirstOrDefault();
@@ -77,6 +77,11 @@ namespace Azure.DocumentDb.Sample
             };
             await client.CreateDocumentAsync(collection.DocumentsLink, contoso);
             await client.CreateDocumentAsync(collection.DocumentsLink, wwi);
+            
+            var customers = client.CreateDocumentQuery<Customer>
+                    (collection.DocumentsLink).
+                Where(c => c.CustomerName == "Contoso Corp").ToList();
+            System.Console.WriteLine(customers.Count);
         }
     }
 }
