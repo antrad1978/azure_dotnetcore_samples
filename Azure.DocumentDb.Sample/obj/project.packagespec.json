@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/Azure.DocumentDb.Sample.csproj",
+    "projectName": "Azure.DocumentDb.Sample",
+    "projectPath": "/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/Azure.DocumentDb.Sample.csproj",
+    "outputPath": "/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.Azure.DocumentDB": {
+          "target": "Package",
+          "version": "[1.20.2, )"
+        },
+        "Microsoft.Azure.DocumentDB.Core": {
+          "target": "Package",
+          "version": "[1.8.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

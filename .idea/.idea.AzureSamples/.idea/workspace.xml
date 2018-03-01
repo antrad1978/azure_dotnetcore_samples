@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ae38922-8901-4a15-a617-48ffba595a40" name="Default" comment="First commit and push">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Azure.DocumentDb.Sample/Customer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Azure.DocumentDb.Sample/PhoneNumber.cs" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AzureSamples/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AzureSamples/.idea/contentModel.xml" />
+    <list default="true" id="0ae38922-8901-4a15-a617-48ffba595a40" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AzureSamples/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AzureSamples/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AzureSamples.sln" afterPath="$PROJECT_DIR$/AzureSamples.sln" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +33,8 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="77" column="2" lean-forward="false" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+            <state relative-caret-position="255">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding>
                 <marker date="1519946429939" expanded="true" signature="6:158" ph="..." />
                 <marker date="1519946429939" expanded="true" signature="193:3041" ph="{...}" />
@@ -298,7 +294,7 @@
       <option name="presentableId" value="Default" />
       <updated>1519935122714</updated>
       <workItem from="1519935127884" duration="2947000" />
-      <workItem from="1519944116306" duration="711000" />
+      <workItem from="1519944116306" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="First commit and push">
       <created>1519935765434</created>
@@ -307,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519935765434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added DocumentDb sample">
+      <created>1519946487485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519946487486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3658000" />
+    <option name="totallyTimeSpent" value="3700000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +360,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit and push" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit and push" />
+    <MESSAGE value="Added DocumentDb sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added DocumentDb sample" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -583,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Azure.DocumentDb.Sample/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="2" lean-forward="false" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
             <marker date="1519946429939" expanded="true" signature="6:158" ph="..." />
             <marker date="1519946429939" expanded="true" signature="193:3041" ph="{...}" />
