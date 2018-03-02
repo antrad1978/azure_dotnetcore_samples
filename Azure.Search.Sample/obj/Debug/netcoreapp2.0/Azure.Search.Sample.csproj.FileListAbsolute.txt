@@ -1,0 +1,10 @@
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.csproj.CoreCompileInputs.cache
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.AssemblyInfoInputs.cache
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.AssemblyInfo.cs
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/bin/Debug/netcoreapp2.0/Azure.Search.Sample.deps.json
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/bin/Debug/netcoreapp2.0/Azure.Search.Sample.runtimeconfig.json
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/bin/Debug/netcoreapp2.0/Azure.Search.Sample.runtimeconfig.dev.json
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/bin/Debug/netcoreapp2.0/Azure.Search.Sample.dll
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/bin/Debug/netcoreapp2.0/Azure.Search.Sample.pdb
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.dll
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.pdb

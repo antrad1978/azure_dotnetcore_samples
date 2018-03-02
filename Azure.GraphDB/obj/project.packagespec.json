@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Code/azure_dotnetcore_samples/Azure.GraphDB/Azure.GraphDB.csproj",
+    "projectName": "Azure.GraphDB",
+    "projectPath": "/Code/azure_dotnetcore_samples/Azure.GraphDB/Azure.GraphDB.csproj",
+    "outputPath": "/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "AzureGraphStore": {
+          "target": "Package",
+          "version": "[1.0.2, )"
+        },
+        "Microsoft.Azure.DocumentDB": {
+          "target": "Package",
+          "version": "[1.20.2, )"
+        },
+        "Microsoft.Azure.DocumentDB.Core": {
+          "target": "Package",
+          "version": "[1.8.2, )"
+        },
+        "Microsoft.Azure.Graphs": {
+          "target": "Package",
+          "version": "[0.3.1-preview, )"
+        },
+        "Microsoft.Azure.Management.Redis": {
+          "target": "Package",
+          "version": "[4.4.0, )"
+        },
+        "Microsoft.Azure.Management.Redis.Fluent": {
+          "target": "Package",
+          "version": "[1.6.0, )"
+        },
+        "Microsoft.Azure.Search": {
+          "target": "Package",
+          "version": "[4.0.2-preview, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Spatial": {
+          "target": "Package",
+          "version": "[7.4.1, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

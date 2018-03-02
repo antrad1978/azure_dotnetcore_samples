@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAS", "SAS\SAS.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.DocumentDb.Sample", "Azure.DocumentDb.Sample\Azure.DocumentDb.Sample.csproj", "{49AF72A1-874C-4ED6-8C5D-2558400F1E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.GraphDB", "Azure.GraphDB\Azure.GraphDB.csproj", "{1F85461F-06CE-4E9A-ACC4-864B3A1ED325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Cache.WebApplication", "Redis.Cache.WebApplication\Redis.Cache.WebApplication.csproj", "{282079BD-2705-4C7C-98AF-82410B92BD02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Search.Sample", "Azure.Search.Sample\Azure.Search.Sample.csproj", "{4707F31A-3022-4502-BC1A-58052DC4D351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +49,17 @@ Global
 		{49AF72A1-874C-4ED6-8C5D-2558400F1E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49AF72A1-874C-4ED6-8C5D-2558400F1E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49AF72A1-874C-4ED6-8C5D-2558400F1E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F85461F-06CE-4E9A-ACC4-864B3A1ED325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F85461F-06CE-4E9A-ACC4-864B3A1ED325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F85461F-06CE-4E9A-ACC4-864B3A1ED325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F85461F-06CE-4E9A-ACC4-864B3A1ED325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282079BD-2705-4C7C-98AF-82410B92BD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282079BD-2705-4C7C-98AF-82410B92BD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282079BD-2705-4C7C-98AF-82410B92BD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282079BD-2705-4C7C-98AF-82410B92BD02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4707F31A-3022-4502-BC1A-58052DC4D351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4707F31A-3022-4502-BC1A-58052DC4D351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4707F31A-3022-4502-BC1A-58052DC4D351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4707F31A-3022-4502-BC1A-58052DC4D351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

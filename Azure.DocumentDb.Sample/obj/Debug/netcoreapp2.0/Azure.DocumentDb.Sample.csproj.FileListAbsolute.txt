@@ -1,0 +1,12 @@
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Microsoft.Azure.Documents.ServiceInterop.dll
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/DocumentDB.Spatial.Sql.dll
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.deps.json
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.runtimeconfig.json
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.runtimeconfig.dev.json
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.dll
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/bin/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.pdb
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.csproj.CoreCompileInputs.cache
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.AssemblyInfoInputs.cache
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.AssemblyInfo.cs
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.dll
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.pdb

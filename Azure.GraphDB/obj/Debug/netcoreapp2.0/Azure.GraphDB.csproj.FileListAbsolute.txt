@@ -1,0 +1,12 @@
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/Microsoft.Azure.Documents.ServiceInterop.dll
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/DocumentDB.Spatial.Sql.dll
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/Azure.GraphDB.deps.json
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/Azure.GraphDB.runtimeconfig.json
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/Azure.GraphDB.runtimeconfig.dev.json
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/Azure.GraphDB.dll
+/Code/azure_dotnetcore_samples/Azure.GraphDB/bin/Debug/netcoreapp2.0/Azure.GraphDB.pdb
+/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.csproj.CoreCompileInputs.cache
+/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.AssemblyInfoInputs.cache
+/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.AssemblyInfo.cs
+/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.dll
+/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.pdb
