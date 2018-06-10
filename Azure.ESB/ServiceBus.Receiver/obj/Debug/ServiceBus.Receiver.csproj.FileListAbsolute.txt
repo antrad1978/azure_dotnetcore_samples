@@ -1,0 +1,13 @@
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\ServiceBus.Receiver.exe.config
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\ServiceBus.Receiver.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\ServiceBus.Receiver.pdb
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.Azure.ServiceBus.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.Azure.ServiceBus.pdb
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.Azure.ServiceBus.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\obj\Debug\ServiceBus.Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\obj\Debug\ServiceBus.Receiver.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Receiver\obj\Debug\ServiceBus.Receiver.pdb

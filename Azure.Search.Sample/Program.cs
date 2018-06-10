@@ -38,7 +38,7 @@ namespace Azure.Search.Sample
             var batch = IndexBatch.Upload(homes);
             indexClient.Documents.Index(batch);
             
-            SearchParameters parameters =
+            /*SearchParameters parameters =
                     new SearchParameters()
                     {
                         Select = new[] { "SquareFootage" }
@@ -48,7 +48,7 @@ namespace Azure.Search.Sample
             foreach (SearchResult<Home> result in searchResults.Results)
             {
                 Console.WriteLine(result.Document);
-            }
+            }*/
         }
     }
 }

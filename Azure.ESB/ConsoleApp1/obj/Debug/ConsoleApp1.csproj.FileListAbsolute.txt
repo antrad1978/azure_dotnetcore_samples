@@ -1,0 +1,9 @@
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.Relay.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.Relay.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
