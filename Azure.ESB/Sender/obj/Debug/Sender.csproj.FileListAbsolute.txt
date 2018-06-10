@@ -1,0 +1,8 @@
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\bin\Debug\Sender.exe.config
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\bin\Debug\Sender.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\bin\Debug\Sender.pdb
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\bin\Debug\Microsoft.Azure.Relay.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\bin\Debug\Microsoft.Azure.Relay.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\obj\Debug\Sender.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\Sender\obj\Debug\Sender.pdb

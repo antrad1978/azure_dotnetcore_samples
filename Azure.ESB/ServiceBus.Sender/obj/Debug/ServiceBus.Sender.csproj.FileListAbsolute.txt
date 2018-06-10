@@ -1,0 +1,14 @@
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\ServiceBus.Sender.exe.config
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\ServiceBus.Sender.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\ServiceBus.Sender.pdb
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.Azure.ServiceBus.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.Azure.ServiceBus.pdb
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.Azure.ServiceBus.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\obj\Debug\ServiceBus.Sender.csprojResolveAssemblyReference.cache
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\obj\Debug\ServiceBus.Sender.csproj.CoreCompileInputs.cache
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\obj\Debug\ServiceBus.Sender.exe
+C:\Users\Tonio\source\repos\ConsoleApp1\ServiceBus.Sender\obj\Debug\ServiceBus.Sender.pdb
