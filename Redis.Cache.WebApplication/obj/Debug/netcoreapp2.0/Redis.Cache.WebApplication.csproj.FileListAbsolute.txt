@@ -1,0 +1,11 @@
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/bin/Debug/netcoreapp2.0/Redis.Cache.WebApplication.deps.json
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/bin/Debug/netcoreapp2.0/Redis.Cache.WebApplication.runtimeconfig.json
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/bin/Debug/netcoreapp2.0/Redis.Cache.WebApplication.runtimeconfig.dev.json
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/bin/Debug/netcoreapp2.0/Redis.Cache.WebApplication.dll
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/bin/Debug/netcoreapp2.0/Redis.Cache.WebApplication.pdb
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/obj/Debug/netcoreapp2.0/Redis.Cache.WebApplication.csprojAssemblyReference.cache
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/obj/Debug/netcoreapp2.0/Redis.Cache.WebApplication.csproj.CoreCompileInputs.cache
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/obj/Debug/netcoreapp2.0/Redis.Cache.WebApplication.AssemblyInfoInputs.cache
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/obj/Debug/netcoreapp2.0/Redis.Cache.WebApplication.AssemblyInfo.cs
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/obj/Debug/netcoreapp2.0/Redis.Cache.WebApplication.dll
+/Code/azure_dotnetcore_samples/Redis.Cache.WebApplication/obj/Debug/netcoreapp2.0/Redis.Cache.WebApplication.pdb

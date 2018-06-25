@@ -1,0 +1,14 @@
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.deps.json
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.runtimeconfig.json
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.runtimeconfig.dev.json
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.dll
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.pdb
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.csprojAssemblyReference.cache
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.csproj.CoreCompileInputs.cache
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.AssemblyInfoInputs.cache
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.AssemblyInfo.cs
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.dll
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.pdb
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Microsoft.ServiceBus.dll
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/bin/Debug/netcoreapp2.1/Microsoft.ServiceBus.xml
+/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/Debug/netcoreapp2.1/Azure.ServiceBus.QueueSample.csproj.CopyComplete

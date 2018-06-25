@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/Azure.ServiceBus.QueueSample.csproj",
+    "projectName": "Azure.ServiceBus.QueueSample",
+    "projectPath": "/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/Azure.ServiceBus.QueueSample.csproj",
+    "outputPath": "/Code/azure_dotnetcore_samples/Azure.ServiceBus.QueueSample/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.Azure.ServiceBus": {
+          "target": "Package",
+          "version": "[3.0.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "System.Configuration.ConfigurationManager": {
+          "target": "Package",
+          "version": "[4.5.0, )"
+        },
+        "System.Web.Http.Common": {
+          "target": "Package",
+          "version": "[4.0.20126.16343, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

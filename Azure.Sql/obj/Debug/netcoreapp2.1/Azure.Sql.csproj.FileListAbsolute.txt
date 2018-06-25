@@ -1,0 +1,11 @@
+/Code/azure_dotnetcore_samples/Azure.Sql/bin/Debug/netcoreapp2.1/Azure.Sql.deps.json
+/Code/azure_dotnetcore_samples/Azure.Sql/bin/Debug/netcoreapp2.1/Azure.Sql.runtimeconfig.json
+/Code/azure_dotnetcore_samples/Azure.Sql/bin/Debug/netcoreapp2.1/Azure.Sql.runtimeconfig.dev.json
+/Code/azure_dotnetcore_samples/Azure.Sql/bin/Debug/netcoreapp2.1/Azure.Sql.dll
+/Code/azure_dotnetcore_samples/Azure.Sql/bin/Debug/netcoreapp2.1/Azure.Sql.pdb
+/Code/azure_dotnetcore_samples/Azure.Sql/obj/Debug/netcoreapp2.1/Azure.Sql.csprojAssemblyReference.cache
+/Code/azure_dotnetcore_samples/Azure.Sql/obj/Debug/netcoreapp2.1/Azure.Sql.csproj.CoreCompileInputs.cache
+/Code/azure_dotnetcore_samples/Azure.Sql/obj/Debug/netcoreapp2.1/Azure.Sql.AssemblyInfoInputs.cache
+/Code/azure_dotnetcore_samples/Azure.Sql/obj/Debug/netcoreapp2.1/Azure.Sql.AssemblyInfo.cs
+/Code/azure_dotnetcore_samples/Azure.Sql/obj/Debug/netcoreapp2.1/Azure.Sql.dll
+/Code/azure_dotnetcore_samples/Azure.Sql/obj/Debug/netcoreapp2.1/Azure.Sql.pdb
