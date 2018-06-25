@@ -24,7 +24,10 @@
       },
       "Antlr4.Runtime.Standard/4.7.1": {
         "runtime": {
-          "lib/netstandard/Antlr4.Runtime.Core.dll": {}
+          "lib/netstandard/Antlr4.Runtime.Core.dll": {
+            "assemblyVersion": "4.7.0.0",
+            "fileVersion": "4.7.0.0"
+          }
         }
       },
       "AzureGraphStore/1.0.2": {
@@ -32,7 +35,10 @@
           "WindowsAzure.Storage": "2.0.5.1"
         },
         "runtime": {
-          "lib/net45/AzureGraphStore.dll": {}
+          "lib/net45/AzureGraphStore.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
         }
       },
       "Microsoft.Azure.DocumentDB/1.20.2": {
@@ -42,11 +48,13 @@
         "runtimeTargets": {
           "runtimes/win7-x64/native/DocumentDB.Spatial.Sql.dll": {
             "rid": "win7-x64",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll": {
             "rid": "win7-x64",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -66,16 +74,21 @@
           "System.Security.SecureString": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.6/Microsoft.Azure.DocumentDB.Core.dll": {}
+          "lib/netstandard1.6/Microsoft.Azure.DocumentDB.Core.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          }
         },
         "runtimeTargets": {
           "runtimes/win/native/DocumentDB.Spatial.Sql.dll": {
             "rid": "win",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win/native/Microsoft.Azure.Documents.ServiceInterop.dll": {
             "rid": "win",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -97,7 +110,10 @@
           "System.Security.SecureString": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.6/Microsoft.Azure.Graphs.dll": {}
+          "lib/netstandard1.6/Microsoft.Azure.Graphs.dll": {
+            "assemblyVersion": "0.3.0.0",
+            "fileVersion": "0.3.1.0"
+          }
         }
       },
       "Microsoft.Azure.Management.Redis/4.4.0": {
@@ -108,7 +124,10 @@
           "System.Net.Http": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Azure.Management.Redis.dll": {}
+          "lib/netstandard1.4/Microsoft.Azure.Management.Redis.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.4.0.0"
+          }
         }
       },
       "Microsoft.Azure.Management.Redis.Fluent/1.6.0": {
@@ -117,7 +136,10 @@
           "Microsoft.Rest.ClientRuntime.Azure": "3.3.10"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Azure.Management.Redis.Fluent.dll": {}
+          "lib/netstandard1.3/Microsoft.Azure.Management.Redis.Fluent.dll": {
+            "assemblyVersion": "1.0.0.60",
+            "fileVersion": "1.6.0.0"
+          }
         }
       },
       "Microsoft.Azure.Management.ResourceManager.Fluent/1.6.0": {
@@ -128,7 +150,10 @@
           "System.Reflection.TypeExtensions": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Azure.Management.ResourceManager.Fluent.dll": {}
+          "lib/netstandard1.3/Microsoft.Azure.Management.ResourceManager.Fluent.dll": {
+            "assemblyVersion": "1.0.0.60",
+            "fileVersion": "1.6.0.0"
+          }
         }
       },
       "Microsoft.Azure.Search/4.0.2-preview": {
@@ -140,7 +165,10 @@
           "System.Net.Http": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Azure.Search.dll": {}
+          "lib/netstandard1.4/Microsoft.Azure.Search.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.2.0"
+          }
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -165,7 +193,10 @@
       },
       "Microsoft.Data.Edm/5.2.0": {
         "runtime": {
-          "lib/net40/Microsoft.Data.Edm.dll": {}
+          "lib/net40/Microsoft.Data.Edm.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.51212"
+          }
         },
         "resources": {
           "lib/net40/de/Microsoft.Data.Edm.resources.dll": {
@@ -203,7 +234,10 @@
           "System.Spatial": "5.2.0"
         },
         "runtime": {
-          "lib/net40/Microsoft.Data.OData.dll": {}
+          "lib/net40/Microsoft.Data.OData.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.51212"
+          }
         },
         "resources": {
           "lib/net40/de/Microsoft.Data.OData.resources.dll": {
@@ -240,7 +274,10 @@
           "Microsoft.Extensions.Configuration.Abstractions": "1.1.2"
         },
         "runtime": {
-          "lib/netstandard1.1/Microsoft.Extensions.Configuration.dll": {}
+          "lib/netstandard1.1/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.30427"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/1.1.2": {
@@ -248,7 +285,10 @@
           "Microsoft.Extensions.Primitives": "1.1.1"
         },
         "runtime": {
-          "lib/netstandard1.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+          "lib/netstandard1.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.30427"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Binder/1.1.2": {
@@ -257,7 +297,10 @@
           "System.ComponentModel.TypeConverter": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.1/Microsoft.Extensions.Configuration.Binder.dll": {}
+          "lib/netstandard1.1/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.30427"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.FileExtensions/1.1.2": {
@@ -267,7 +310,10 @@
           "System.Threading.Thread": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Extensions.Configuration.FileExtensions.dll": {}
+          "lib/netstandard1.3/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.30427"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Json/1.1.2": {
@@ -279,7 +325,10 @@
           "System.Runtime.Serialization.Primitives": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Extensions.Configuration.Json.dll": {}
+          "lib/netstandard1.3/Microsoft.Extensions.Configuration.Json.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.30427"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Xml/1.1.2": {
@@ -290,7 +339,10 @@
           "System.Xml.XmlSerializer": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Extensions.Configuration.Xml.dll": {}
+          "lib/netstandard1.3/Microsoft.Extensions.Configuration.Xml.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.30427"
+          }
         }
       },
       "Microsoft.Extensions.FileProviders.Abstractions/1.1.1": {
@@ -298,7 +350,10 @@
           "Microsoft.Extensions.Primitives": "1.1.1"
         },
         "runtime": {
-          "lib/netstandard1.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+          "lib/netstandard1.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30427"
+          }
         }
       },
       "Microsoft.Extensions.FileProviders.Physical/1.1.1": {
@@ -308,12 +363,18 @@
           "System.IO.FileSystem.Watcher": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Extensions.FileProviders.Physical.dll": {}
+          "lib/netstandard1.3/Microsoft.Extensions.FileProviders.Physical.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30427"
+          }
         }
       },
       "Microsoft.Extensions.FileSystemGlobbing/1.1.1": {
         "runtime": {
-          "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.dll": {}
+          "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30427"
+          }
         }
       },
       "Microsoft.Extensions.Primitives/1.1.1": {
@@ -321,7 +382,10 @@
           "System.Runtime.CompilerServices.Unsafe": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.0/Microsoft.Extensions.Primitives.dll": {}
+          "lib/netstandard1.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30427"
+          }
         }
       },
       "Microsoft.IdentityModel.Clients.ActiveDirectory/3.13.9": {
@@ -330,8 +394,14 @@
           "System.Runtime.Serialization.Primitives": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll": {},
-          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {}
+          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll": {
+            "assemblyVersion": "3.13.9.1126",
+            "fileVersion": "3.13.40321.2200"
+          },
+          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {
+            "assemblyVersion": "3.13.9.1126",
+            "fileVersion": "3.13.40321.2200"
+          }
         }
       },
       "Microsoft.IdentityModel.Logging/1.1.2": {
@@ -342,7 +412,10 @@
           "System.IO.FileSystem": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.IdentityModel.Logging.dll": {}
+          "lib/netstandard1.4/Microsoft.IdentityModel.Logging.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.203"
+          }
         }
       },
       "Microsoft.IdentityModel.Tokens/5.1.2": {
@@ -364,7 +437,10 @@
           "System.Xml.ReaderWriter": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.IdentityModel.Tokens.dll": {}
+          "lib/netstandard1.4/Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.203"
+          }
         }
       },
       "Microsoft.NETCore.Targets/1.1.0": {},
@@ -373,7 +449,10 @@
           "Newtonsoft.Json": "11.0.1"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.dll": {}
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.10.0"
+          }
         }
       },
       "Microsoft.Rest.ClientRuntime.Azure/3.3.10": {
@@ -382,7 +461,10 @@
           "Newtonsoft.Json": "11.0.1"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {}
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.10.0"
+          }
         }
       },
       "Microsoft.Rest.ClientRuntime.Azure.Authentication/2.3.2": {
@@ -393,12 +475,18 @@
           "Newtonsoft.Json": "11.0.1"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll": {}
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.1.0"
+          }
         }
       },
       "Microsoft.Spatial/7.4.1": {
         "runtime": {
-          "lib/netstandard1.1/Microsoft.Spatial.dll": {}
+          "lib/netstandard1.1/Microsoft.Spatial.dll": {
+            "assemblyVersion": "7.4.1.20214",
+            "fileVersion": "7.4.1.20214"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -409,12 +497,18 @@
       },
       "Microsoft.WindowsAzure.ConfigurationManager/1.8.0": {
         "runtime": {
-          "lib/net35-full/Microsoft.WindowsAzure.Configuration.dll": {}
+          "lib/net35-full/Microsoft.WindowsAzure.Configuration.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          }
         }
       },
       "Newtonsoft.Json/11.0.1": {
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -1102,7 +1196,10 @@
           "System.Runtime": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.0.0"
+          }
         }
       },
       "System.Runtime.Extensions/4.3.0": {
@@ -1412,7 +1509,10 @@
       },
       "System.Spatial/5.2.0": {
         "runtime": {
-          "lib/net40/System.Spatial.dll": {}
+          "lib/net40/System.Spatial.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.51212"
+          }
         },
         "resources": {
           "lib/net40/de/System.Spatial.resources.dll": {
@@ -1569,7 +1669,10 @@
           "Microsoft.WindowsAzure.ConfigurationManager": "1.8.0"
         },
         "runtime": {
-          "lib/net40/Microsoft.WindowsAzure.Storage.dll": {}
+          "lib/net40/Microsoft.WindowsAzure.Storage.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.5.1"
+          }
         }
       }
     }

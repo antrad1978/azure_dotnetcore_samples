@@ -10,8 +10,8 @@ namespace Azure.DocumentDb.Sample
 {
     class Program
     {
-        private const string EndpointUrl = "https://ngtcosmosdb.documents.azure.com:443/";
-        private const string PrimaryKey = "==";
+        private const string EndpointUrl = "https://ngtcosmos1.documents.azure.com:443/";
+        private const string PrimaryKey = "KV7aLrAxbja4CeWtc4NbmmjXwkUpQVhDE9n2BNjpwYP7G20Pq9WGlE7u1p1egIIbVdvjnGRrTNDTbSql9ajPxA==";
         private static DocumentClient client;
         
         static void Main(string[] args)

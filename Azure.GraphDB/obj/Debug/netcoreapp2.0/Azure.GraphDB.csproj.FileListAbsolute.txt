@@ -10,3 +10,4 @@
 /Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.AssemblyInfo.cs
 /Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.dll
 /Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.pdb
+/Code/azure_dotnetcore_samples/Azure.GraphDB/obj/Debug/netcoreapp2.0/Azure.GraphDB.csprojAssemblyReference.cache

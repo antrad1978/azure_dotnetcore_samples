@@ -18,3 +18,4 @@
 /Code/azure_dotnetcore_samples/AzureStorageQueue/obj/Debug/netcoreapp2.0/AzureStorageQueue.AssemblyInfo.cs
 /Code/azure_dotnetcore_samples/AzureStorageQueue/obj/Debug/netcoreapp2.0/AzureStorageQueue.dll
 /Code/azure_dotnetcore_samples/AzureStorageQueue/obj/Debug/netcoreapp2.0/AzureStorageQueue.pdb
+/Code/azure_dotnetcore_samples/AzureStorageQueue/obj/Debug/netcoreapp2.0/AzureStorageQueue.csprojAssemblyReference.cache

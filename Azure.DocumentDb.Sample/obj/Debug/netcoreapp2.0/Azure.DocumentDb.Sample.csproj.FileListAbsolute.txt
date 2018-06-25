@@ -10,3 +10,4 @@
 /Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.AssemblyInfo.cs
 /Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.dll
 /Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.pdb
+/Code/azure_dotnetcore_samples/Azure.DocumentDb.Sample/obj/Debug/netcoreapp2.0/Azure.DocumentDb.Sample.csprojAssemblyReference.cache

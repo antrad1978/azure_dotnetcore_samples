@@ -27,7 +27,10 @@
           "System.Net.Http": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Azure.Search.dll": {}
+          "lib/netstandard1.4/Microsoft.Azure.Search.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.2.0"
+          }
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -56,8 +59,14 @@
           "System.Runtime.Serialization.Primitives": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll": {},
-          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {}
+          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll": {
+            "assemblyVersion": "3.13.9.1126",
+            "fileVersion": "3.13.40321.2200"
+          },
+          "lib/netstandard1.4/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {
+            "assemblyVersion": "3.13.9.1126",
+            "fileVersion": "3.13.40321.2200"
+          }
         }
       },
       "Microsoft.IdentityModel.Logging/1.1.2": {
@@ -68,7 +77,10 @@
           "System.IO.FileSystem": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.IdentityModel.Logging.dll": {}
+          "lib/netstandard1.4/Microsoft.IdentityModel.Logging.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.203"
+          }
         }
       },
       "Microsoft.IdentityModel.Tokens/5.1.2": {
@@ -90,7 +102,10 @@
           "System.Xml.ReaderWriter": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.IdentityModel.Tokens.dll": {}
+          "lib/netstandard1.4/Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.203"
+          }
         }
       },
       "Microsoft.NETCore.Targets/1.1.0": {},
@@ -99,7 +114,10 @@
           "Newtonsoft.Json": "10.0.2"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.dll": {}
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.10.0"
+          }
         }
       },
       "Microsoft.Rest.ClientRuntime.Azure/3.3.10": {
@@ -108,7 +126,10 @@
           "Newtonsoft.Json": "10.0.2"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {}
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.10.0"
+          }
         }
       },
       "Microsoft.Rest.ClientRuntime.Azure.Authentication/2.3.2": {
@@ -119,12 +140,18 @@
           "Newtonsoft.Json": "10.0.2"
         },
         "runtime": {
-          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll": {}
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.1.0"
+          }
         }
       },
       "Microsoft.Spatial/7.4.1": {
         "runtime": {
-          "lib/netstandard1.1/Microsoft.Spatial.dll": {}
+          "lib/netstandard1.1/Microsoft.Spatial.dll": {
+            "assemblyVersion": "7.4.1.20214",
+            "fileVersion": "7.4.1.20214"
+          }
         }
       },
       "Newtonsoft.Json/10.0.2": {
@@ -136,7 +163,10 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.2.20802"
+          }
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {

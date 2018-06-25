@@ -18,3 +18,4 @@
 /Code/azure_dotnetcore_samples/Azure1/obj/Debug/netcoreapp2.0/Azure1.AssemblyInfo.cs
 /Code/azure_dotnetcore_samples/Azure1/obj/Debug/netcoreapp2.0/Azure1.dll
 /Code/azure_dotnetcore_samples/Azure1/obj/Debug/netcoreapp2.0/Azure1.pdb
+/Code/azure_dotnetcore_samples/Azure1/obj/Debug/netcoreapp2.0/Azure1.csprojAssemblyReference.cache

@@ -18,3 +18,4 @@
 /Code/azure_dotnetcore_samples/AzureTables/obj/Debug/netcoreapp2.0/AzureTables.AssemblyInfo.cs
 /Code/azure_dotnetcore_samples/AzureTables/obj/Debug/netcoreapp2.0/AzureTables.dll
 /Code/azure_dotnetcore_samples/AzureTables/obj/Debug/netcoreapp2.0/AzureTables.pdb
+/Code/azure_dotnetcore_samples/AzureTables/obj/Debug/netcoreapp2.0/AzureTables.csprojAssemblyReference.cache

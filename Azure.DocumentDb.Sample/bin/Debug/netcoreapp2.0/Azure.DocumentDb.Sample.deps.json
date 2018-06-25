@@ -23,11 +23,13 @@
         "runtimeTargets": {
           "runtimes/win7-x64/native/DocumentDB.Spatial.Sql.dll": {
             "rid": "win7-x64",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll": {
             "rid": "win7-x64",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -47,16 +49,21 @@
           "System.Security.SecureString": "4.0.0"
         },
         "runtime": {
-          "lib/netstandard1.6/Microsoft.Azure.DocumentDB.Core.dll": {}
+          "lib/netstandard1.6/Microsoft.Azure.DocumentDB.Core.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          }
         },
         "runtimeTargets": {
           "runtimes/win/native/DocumentDB.Spatial.Sql.dll": {
             "rid": "win",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win/native/Microsoft.Azure.Documents.ServiceInterop.dll": {
             "rid": "win",
-            "assetType": "native"
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -69,7 +76,10 @@
       },
       "Newtonsoft.Json/11.0.1": {
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
         }
       },
       "runtime.native.System/4.0.0": {

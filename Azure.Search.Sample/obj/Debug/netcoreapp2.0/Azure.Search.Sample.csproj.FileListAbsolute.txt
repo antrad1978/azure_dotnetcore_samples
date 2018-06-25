@@ -8,3 +8,4 @@
 /Code/azure_dotnetcore_samples/Azure.Search.Sample/bin/Debug/netcoreapp2.0/Azure.Search.Sample.pdb
 /Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.dll
 /Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.pdb
+/Code/azure_dotnetcore_samples/Azure.Search.Sample/obj/Debug/netcoreapp2.0/Azure.Search.Sample.csprojAssemblyReference.cache
